@@ -50,3 +50,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+
+
+For More Info:
+
+Laravel 5.4 based blog.
+	|-----Ueditor (Textarea) / under the admin system. Able to CRUD articles.
+	|-----Layers http://layer.layui.com/ (JavaScript code) / to validate the information (front-end based) 
+	|-----Bootstrap
+	|-----Google Font API
+	|-----Google Map API
