@@ -57,8 +57,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 For More Info:
 
 Laravel 5.4 based blog.
-	- Ueditor (Textarea) / under the admin system. Able to CRUD articles.
-	- Layers http://layer.layui.com/ (JavaScript code) / to validate the information (front-end based) 
-	- Bootstrap
-	- Google Font API
-	- Google Map API
+	- Ueditor (Textarea) / under the admin system. Able to CRUD articles.   <br/>
+	- Layers http://layer.layui.com/ (JavaScript code) / to validate the information (front-end based)   <br/>
+	- Bootstrap    <br/>
+	- Google Font API   <br/> 
+	- Google Map API    <br/>
